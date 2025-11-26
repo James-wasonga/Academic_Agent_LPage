@@ -454,6 +454,13 @@ footer p {
         display: none;
     }
 
+    .launch-btn {
+        padding: 0.6rem 1.2rem;
+        font-size: 0.75rem;
+        letter-spacing: 0.5px;
+    }
+    }
+
     .hero h1 {
         font-size: 2rem;
     }
