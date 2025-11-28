@@ -509,12 +509,16 @@ footer p {
 
     .hero-label::before,
     .hero-label::after {
-        width: 40px;
-        left: -50px;
+        width: 30px;
+        /* left: -50px; */
+    }
+
+    .hero-label::before {
+        left: -40px;
     }
 
     .hero-label::after {
-        right: -50px;
+        right: -40px;
     }
 
     .section {
