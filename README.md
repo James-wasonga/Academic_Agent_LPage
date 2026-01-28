@@ -1,3 +1,5 @@
 ﻿# Academic_Agent_LPage
 
-<img width="1920" height="1080" alt="Screenshot (1808)" src="https://github.com/user-attachments/assets/110b3b7f-2a64-4787-ac4f-97b223235b02" />
+<img width="1906" height="947" alt="Screenshot (1809)" src="https://github.com/user-attachments/assets/93660a63-5eba-467f-8a2c-da514de8d193" />
+
+
